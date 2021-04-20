@@ -1,5 +1,5 @@
 ---
-title: 'Two Forms of Pre-rendering'
+title: 'プログラマー1歳と4ヶ月'
 date: '2020-01-01'
 ---
 
